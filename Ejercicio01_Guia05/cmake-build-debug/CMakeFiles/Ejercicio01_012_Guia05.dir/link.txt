@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Ejercicio01_012_Guia05.dir/main.c.o  -o Ejercicio01_012_Guia05 
